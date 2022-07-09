@@ -1,31 +1,39 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e5c9a7d57bec8d286cb42223d518a4a4",
+    "revision": "236bd69a9ba6ca95ecd716f23c0e2dc7",
     "url": "/cndl-wrld-website/index.html"
   },
   {
-    "revision": "cc3ee37a47ec84a8c4fd",
+    "revision": "b15200c8b45f2fa4992a",
     "url": "/cndl-wrld-website/static/css/2.8cf600a9.chunk.css"
   },
   {
-    "revision": "0aac201a5620a7dcd7e7",
-    "url": "/cndl-wrld-website/static/css/main.0d644490.chunk.css"
+    "revision": "0f964de3abf76ac9ce25",
+    "url": "/cndl-wrld-website/static/css/main.ccaa65ee.chunk.css"
   },
   {
-    "revision": "cc3ee37a47ec84a8c4fd",
-    "url": "/cndl-wrld-website/static/js/2.df1c49d7.chunk.js"
+    "revision": "b15200c8b45f2fa4992a",
+    "url": "/cndl-wrld-website/static/js/2.ae606dc5.chunk.js"
   },
   {
     "revision": "f2e097a5fa04a5d1b01656a6cd1a1a1a",
-    "url": "/cndl-wrld-website/static/js/2.df1c49d7.chunk.js.LICENSE"
+    "url": "/cndl-wrld-website/static/js/2.ae606dc5.chunk.js.LICENSE"
   },
   {
-    "revision": "0aac201a5620a7dcd7e7",
-    "url": "/cndl-wrld-website/static/js/main.04fd8a1c.chunk.js"
+    "revision": "0f964de3abf76ac9ce25",
+    "url": "/cndl-wrld-website/static/js/main.273e2cfa.chunk.js"
   },
   {
     "revision": "86e8d4e7fbfa7630a952",
     "url": "/cndl-wrld-website/static/js/runtime-main.11dfe084.js"
+  },
+  {
+    "revision": "5fd3e9e38bec6dc5d480c0e2d43fa99a",
+    "url": "/cndl-wrld-website/static/media/cndl-bg.5fd3e9e3.jpg"
+  },
+  {
+    "revision": "088650be8c08ea076d1543b8c78725f0",
+    "url": "/cndl-wrld-website/static/media/cndlworldlogo.088650be.jpg"
   },
   {
     "revision": "67af05e12311bac06327b43ca31e166b",
@@ -90,14 +98,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "621bd386841f74e0053cb8e67f8a0604",
     "url": "/cndl-wrld-website/static/media/ionicons.621bd386.svg"
-  },
-  {
-    "revision": "a82ab1cd3c28c0a07a4932d57176cb88",
-    "url": "/cndl-wrld-website/static/media/male.a82ab1cd.png"
-  },
-  {
-    "revision": "3ec3891b37f8b0765b554f10806f0b3f",
-    "url": "/cndl-wrld-website/static/media/male1.3ec3891b.png"
   },
   {
     "revision": "bd80794fddbffb4031fab537cc898680",
