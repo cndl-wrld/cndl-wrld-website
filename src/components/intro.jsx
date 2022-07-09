@@ -20,9 +20,9 @@ class Intro extends React.Component {
                 <strong className="text-slider">
                   <Typed
                     strings={[
-                      "Front End Developer",
-                      "Back End Developer",
-                      "Software Engineer"
+                      "We're too hot to candle.",
+                      "Looking for a match?",
+                      "We have the best candles in the world."
                     ]}
                     typeSpeed={80}
                     backDelay={1100}
@@ -37,7 +37,7 @@ class Intro extends React.Component {
                   href="#work"
                   role="button"
                 >
-                  View My Work
+                  View Our Work
                 </a>
               </p>
             </div>

@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/cndl-wrld-website/static/css/main.0d644490.chunk.css",
+    "main.js": "/cndl-wrld-website/static/js/main.04fd8a1c.chunk.js",
+    "main.js.map": "/cndl-wrld-website/static/js/main.04fd8a1c.chunk.js.map",
+    "runtime-main.js": "/cndl-wrld-website/static/js/runtime-main.11dfe084.js",
+    "runtime-main.js.map": "/cndl-wrld-website/static/js/runtime-main.11dfe084.js.map",
+    "static/css/2.8cf600a9.chunk.css": "/cndl-wrld-website/static/css/2.8cf600a9.chunk.css",
+    "static/js/2.df1c49d7.chunk.js": "/cndl-wrld-website/static/js/2.df1c49d7.chunk.js",
+    "static/js/2.df1c49d7.chunk.js.map": "/cndl-wrld-website/static/js/2.df1c49d7.chunk.js.map",
+    "index.html": "/cndl-wrld-website/index.html",
+    "precache-manifest.e44c92cf4345a6f8a196b7c2c64fcb97.js": "/cndl-wrld-website/precache-manifest.e44c92cf4345a6f8a196b7c2c64fcb97.js",
+    "service-worker.js": "/cndl-wrld-website/service-worker.js",
+    "static/css/2.8cf600a9.chunk.css.map": "/cndl-wrld-website/static/css/2.8cf600a9.chunk.css.map",
+    "static/css/main.0d644490.chunk.css.map": "/cndl-wrld-website/static/css/main.0d644490.chunk.css.map",
+    "static/js/2.df1c49d7.chunk.js.LICENSE": "/cndl-wrld-website/static/js/2.df1c49d7.chunk.js.LICENSE",
+    "static/media/earth.jpg": "/cndl-wrld-website/static/media/earth.67af05e1.jpg",
+    "static/media/font-awesome.css": "/cndl-wrld-website/static/media/fontawesome-webfont.fee66e71.woff",
+    "static/media/image1.jpg": "/cndl-wrld-website/static/media/image1.768998c6.jpg",
+    "static/media/image2.jpg": "/cndl-wrld-website/static/media/image2.8de6195d.jpg",
+    "static/media/image3.jpg": "/cndl-wrld-website/static/media/image3.28470933.jpg",
+    "static/media/image4.jpg": "/cndl-wrld-website/static/media/image4.0b37f434.jpg",
+    "static/media/image5.jpg": "/cndl-wrld-website/static/media/image5.8d16c4af.jpg",
+    "static/media/image6.jpg": "/cndl-wrld-website/static/media/image6.62b7cc75.jpg",
+    "static/media/ionicons.css": "/cndl-wrld-website/static/media/ionicons.621bd386.svg",
+    "static/media/male.png": "/cndl-wrld-website/static/media/male.a82ab1cd.png",
+    "static/media/male1.png": "/cndl-wrld-website/static/media/male1.3ec3891b.png",
+    "static/media/myImage.png": "/cndl-wrld-website/static/media/myImage.bd80794f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.11dfe084.js",
+    "static/css/2.8cf600a9.chunk.css",
+    "static/js/2.df1c49d7.chunk.js",
+    "static/css/main.0d644490.chunk.css",
+    "static/js/main.04fd8a1c.chunk.js"
+  ]
+}
