@@ -44,20 +44,44 @@ class About extends React.Component {
         {
           id: "first-p-about",
           content:
-            "Lorem ipsum pariatur consectetur laboris occaecat nulla aliqua irure ad deserunt duis. Eiusmod nulla cupidatat labore sint sit aute dolore irure nostrud ut incididunt. Anim laborum reprehenderit labore magna ut dolore quis irure. Labore ea duis deserunt ullamco irure fugiat deserunt ut nisi ea minim proident. Nisi consectetur do non magna duis aliqua minim minim veniam. In occaecat minim qui consequat elit mollit consectetur non id tempor. Amet adipisicing occaecat tempor culpa quis est duis."
+            "Welcome to Candle World, your number one source for all things Candles. We're dedicated to giving you the very best of candle, with a focus on love, passion, and wax."
         },
         {
           id: "second-p-about",
           content:
-            "Lorem ipsum pariatur consectetur laboris occaecat nulla aliqua irure ad deserunt duis. Eiusmod nulla cupidatat labore sint sit aute dolore irure nostrud ut incididunt. Anim laborum reprehenderit labore magna ut dolore quis irure. Labore ea duis deserunt ullamco irure fugiat deserunt ut nisi ea minim proident. Nisi consectetur do non magna duis aliqua minim minim veniam. In occaecat minim qui consequat elit mollit consectetur non id tempor. Amet adipisicing occaecat tempor culpa quis est duis."
+            "Founded in  by Steve Kanadle, Candle World has come a long way from its beginnings in your mom's house. When Steve first started out, his passion for candles drove them to quit, so that Candle World can offer you the world's best candles. We now serve customers all over the world, and are thrilled that we're able to turn our passion into our own website."
         },
         {
           id: "third-p-about",
           content:
-            "Lorem ipsum pariatur consectetur laboris occaecat nulla aliqua irure ad deserunt duis. Eiusmod nulla cupidatat labore sint sit aute dolore irure nostrud ut incididunt. Anim laborum reprehenderit labore magna ut dolore quis irure. Labore ea duis deserunt ullamco irure fugiat deserunt ut nisi ea minim proident. Nisi consectetur do non magna duis aliqua minim minim veniam. In occaecat minim qui consequat elit mollit consectetur non id tempor. Amet adipisicing occaecat tempor culpa quis est duis."
+            "We hope you enjoy our products as much as we enjoy offering them to you. If you have any questions or comments, please don't hesitate to contact us."
+        }
+      ],
+      our_team: [
+        {
+          id: "steve",
+          content:
+            "Steve Kanadle"
+        },
+        {
+          id: "jet",
+          content:
+            "Jet Aulti"
+        },
+        {
+          id: "karl",
+          content:
+            "Karl Kennedy"
+        },
+        {
+          id: "william",
+          content:
+            "William Cope"
         }
       ]
     };
+    
+    
   }
 
   render() {
@@ -85,36 +109,27 @@ class About extends React.Component {
                         </div>
                       </div>
                     </div>
-                    <div className="skill-mf">
-                      {/* <p className="title-s">Skill</p> */}
-                      {this.state.skills.map(skill => {
+                  </div>
+                  <div className="col-md-12">
+                    <div className="about-me pt-4 pt-md-0">
+                      <div className="title-box-2">
+                        <h5 className="title-left">About Us</h5>
+                      </div>
+                      {this.state.about_me.map(content => {
                         return (
-                          <React.Fragment key={skill.id}>
-                            <span>{skill.content}</span>{" "}
-                            <span className="pull-right">
-                              {skill.porcentage}
-                            </span>
-                            <div className="progress">
-                              <div
-                                className="progress-bar"
-                                role="progressbar"
-                                style={{ width: skill.porcentage }}
-                                aria-valuenow={skill.value}
-                                aria-valuemin="0"
-                                aria-valuemax="100"
-                              ></div>
-                            </div>
-                          </React.Fragment>
+                          <p className="lead" key={content.id}>
+                            {content.content}
+                          </p>
                         );
                       })}
                     </div>
                   </div>
-                  <div className="col-md-6">
+                  <div className="col-md-12">
                     <div className="about-me pt-4 pt-md-0">
                       <div className="title-box-2">
-                        <h5 className="title-left">About Me</h5>
+                        <h5 className="title-left">Our Team</h5>
                       </div>
-                      {this.state.about_me.map(content => {
+                      {this.state.our_team.map(content => {
                         return (
                           <p className="lead" key={content.id}>
                             {content.content}
