@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.76d6fee6.chunk.css",
-    "main.js": "/static/js/main.e3da345b.chunk.js",
-    "main.js.map": "/static/js/main.e3da345b.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.7b61e083.js",
-    "runtime-main.js.map": "/static/js/runtime-main.7b61e083.js.map",
-    "static/css/2.8cf600a9.chunk.css": "/static/css/2.8cf600a9.chunk.css",
-    "static/js/2.64892851.chunk.js": "/static/js/2.64892851.chunk.js",
-    "static/js/2.64892851.chunk.js.map": "/static/js/2.64892851.chunk.js.map",
+    "main.css": "/static/css/main.ca76c8f4.chunk.css",
+    "main.js": "/static/js/main.e74e9dc8.chunk.js",
+    "main.js.map": "/static/js/main.e74e9dc8.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.19ccc7f6.js",
+    "runtime-main.js.map": "/static/js/runtime-main.19ccc7f6.js.map",
+    "static/css/2.9f9efda8.chunk.css": "/static/css/2.9f9efda8.chunk.css",
+    "static/js/2.b1cf85d9.chunk.js": "/static/js/2.b1cf85d9.chunk.js",
+    "static/js/2.b1cf85d9.chunk.js.map": "/static/js/2.b1cf85d9.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.abc395d9cd20ad35872604cefbb20db7.js": "/precache-manifest.abc395d9cd20ad35872604cefbb20db7.js",
+    "precache-manifest.8d1f810a661bcca4af3106968a95ce5b.js": "/precache-manifest.8d1f810a661bcca4af3106968a95ce5b.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/2.8cf600a9.chunk.css.map": "/static/css/2.8cf600a9.chunk.css.map",
-    "static/css/main.76d6fee6.chunk.css.map": "/static/css/main.76d6fee6.chunk.css.map",
-    "static/js/2.64892851.chunk.js.LICENSE": "/static/js/2.64892851.chunk.js.LICENSE",
+    "static/css/2.9f9efda8.chunk.css.map": "/static/css/2.9f9efda8.chunk.css.map",
+    "static/css/main.ca76c8f4.chunk.css.map": "/static/css/main.ca76c8f4.chunk.css.map",
+    "static/js/2.b1cf85d9.chunk.js.LICENSE.txt": "/static/js/2.b1cf85d9.chunk.js.LICENSE.txt",
     "static/media/stars.scss": "/static/media/cndl-bg.5fd3e9e3.jpg",
     "static/media/cndlworldlogo.jpg": "/static/media/cndlworldlogo.088650be.jpg",
     "static/media/earth.jpg": "/static/media/earth.67af05e1.jpg",
@@ -28,10 +28,10 @@
     "static/media/myImage.png": "/static/media/myImage.bd80794f.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.7b61e083.js",
-    "static/css/2.8cf600a9.chunk.css",
-    "static/js/2.64892851.chunk.js",
-    "static/css/main.76d6fee6.chunk.css",
-    "static/js/main.e3da345b.chunk.js"
+    "static/js/runtime-main.19ccc7f6.js",
+    "static/css/2.9f9efda8.chunk.css",
+    "static/js/2.b1cf85d9.chunk.js",
+    "static/css/main.ca76c8f4.chunk.css",
+    "static/js/main.e74e9dc8.chunk.js"
   ]
 }
