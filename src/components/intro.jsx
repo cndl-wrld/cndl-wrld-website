@@ -14,15 +14,18 @@ class Intro extends React.Component {
         <div className="intro-content display-table">
           <div className="table-cell">
             <div className="container">
-              <h1 className="intro-title mb-4">cndl world</h1>
+              <h1 className="intro-title mb-4">CNDL WRLD</h1>
               <p className="intro-subtitle">
                 <span className="text-slider-items"></span>
                 <strong className="text-slider">
                   <Typed
                     strings={[
                       "We're too hot to candle.",
+		      "Candles of the future.",
+		      "For the people, by candles.",
                       "Looking for a match?",
-                      "We have the best candles in the world."
+                      "We have the best candles in the world.",
+	              "Getting lit, one candle at at time."
                     ]}
                     typeSpeed={80}
                     backDelay={1100}
@@ -34,10 +37,10 @@ class Intro extends React.Component {
               <p className="pt-3">
                 <a
                   className="btn btn-primary btn js-scroll px-4"
-                  href="#work"
+                  href="#about"
                   role="button"
                 >
-                  View Our Work
+                  Read More
                 </a>
               </p>
             </div>

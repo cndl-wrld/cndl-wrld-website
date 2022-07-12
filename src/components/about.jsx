@@ -57,31 +57,7 @@ class About extends React.Component {
             "We hope you enjoy our products as much as we enjoy offering them to you. If you have any questions or comments, please don't hesitate to contact us."
         }
       ],
-      our_team: [
-        {
-          id: "steve",
-          content:
-            "Steve Kanadle"
-        },
-        {
-          id: "jet",
-          content:
-            "Jet Aulti"
-        },
-        {
-          id: "karl",
-          content:
-            "Karl Kennedy"
-        },
-        {
-          id: "william",
-          content:
-            "William Cope"
-        }
-      ]
     };
-    
-    
   }
 
   render() {
@@ -116,20 +92,6 @@ class About extends React.Component {
                         <h5 className="title-left">About Us</h5>
                       </div>
                       {this.state.about_me.map(content => {
-                        return (
-                          <p className="lead" key={content.id}>
-                            {content.content}
-                          </p>
-                        );
-                      })}
-                    </div>
-                  </div>
-                  <div className="col-md-12">
-                    <div className="about-me pt-4 pt-md-0">
-                      <div className="title-box-2">
-                        <h5 className="title-left">Our Team</h5>
-                      </div>
-                      {this.state.our_team.map(content => {
                         return (
                           <p className="lead" key={content.id}>
                             {content.content}
