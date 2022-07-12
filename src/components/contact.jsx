@@ -41,13 +41,13 @@ class Contact extends React.Component {
                               rel="noopener noreferrer"
                             >
                               <span className="ico-circle">
-                                <i className="ion-social-twitter"></i>
+                                <i className="ion-social-instagram"></i>
                               </span>
                             </a>
                           </li>
                           <li>
                             <a
-                              href="https://gtihub.com/cndl-wrld"
+                              href="https://github.com/cndl-wrld/"
                               target="_blank"
                               rel="noopener noreferrer"
                             >
@@ -58,7 +58,7 @@ class Contact extends React.Component {
                           </li>
                           <li>
                             <a
-                              href="https://www.linkedin.com/in/steve-kanadle-508b7b244"
+                              href="https://www.linkedin.com/company/cndl-wrld"
                               target="_blank"
                               rel="noopener noreferrer"
                             >
